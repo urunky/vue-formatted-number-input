@@ -1,5 +1,7 @@
 # vue-formatted-number-input
 
+This component is for numeric input using ',' to seperate values.
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
